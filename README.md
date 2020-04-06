@@ -1,7 +1,7 @@
 "# complaint-management-in-Codeigniter" 
 
 
-Complaint management in Codeigniter
+Complaint management system in Codeigniter
 ==============================
 
 
