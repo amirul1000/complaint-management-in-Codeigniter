@@ -5,9 +5,8 @@ Complaint management system in Codeigniter
 ==============================
 
 
-Youtube Tutorial : https://youtu.be/nwTZN3SyNdc
+Youtube Tutorial : https://youtu.be/dOcLxtYHT3A
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
